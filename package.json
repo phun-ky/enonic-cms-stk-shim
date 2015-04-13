@@ -4,7 +4,7 @@
   "description": "A shim for enonic-cms-stk, reforged to export a module",
   "main": "index.js",
   "scripts": {
-    "install": "napa git+https://github.com/enonic/cms-stk"
+    "_install": "napa git+https://github.com/enonic/cms-stk"
   },
   "repository": {
     "type": "git",
