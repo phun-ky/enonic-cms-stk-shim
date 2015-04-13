@@ -1,4 +1,4 @@
-
+var $ = require('jquery');
 
 window.STK = window.STK || {};
 
