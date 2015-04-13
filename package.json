@@ -1,6 +1,6 @@
 {
   "name": "enonic-cms-stk-shim",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A shim for enonic-cms-stk, reforged to export a module",
   "main": "index.js",
   "scripts": {
